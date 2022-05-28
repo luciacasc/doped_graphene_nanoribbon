@@ -1,0 +1,15 @@
+&inputpp
+ filplot = 'drog.charge'
+ plot_num = 7
+ kpoint = 1
+ kband = 10
+ outdir = './outdir'
+/
+&plot
+   nfile = 1
+   filepp(1) = 'drog.charge'
+   weight(1) = 1.0
+   iflag = 3
+   output_format = 5
+   fileout = 'drog.charge.density'
+/
