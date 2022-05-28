@@ -1,4 +1,4 @@
-# graphene
+# Doped graphene nanoribbon
 In this work it is studied the electrical and structural properties of a doped graphene nanoribbon.
 The calculations are based on the density functional theory and all the calculations are performed with Quantum ESPRESSO.
 The graphene nanoribbon is composed of 30 atoms of carbon and 4 atoms of hydrogen. A carbon atom is substituted with an atom of germanium (electronic configuration: [Ar] 3d¹⁰ 4s² 4p²).
